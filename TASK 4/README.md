@@ -13,8 +13,8 @@ An AI-powered application that allows users to interactively colorize grayscale 
 ## Project Structure
 
 ```
-Project_Null1/
-├── model/              # AI model implementation
+Project_Null4/
+├── model/              # Model implementation
 │   ├── __init__.py
 │   ├── colorization_model.py
 │   └── model_utils.py
